@@ -23,12 +23,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2019 - October 2019)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Learning how to apply industry-standard best practices to write clean code to solve problems
+
+Applying industry-standard practices:
+OOP, TDD and BDD, with testing frameworks: RSpec, Jasmine, pytest, Cypress
+User Stories, Domain Modelling: CRC, UML diagrams
+Linting, code quality, test coverage with rubocop, eslint, pylint, simplecov, Coveralls, CodeClimate
+CI/CD pipeline with TravisCI, CircleCI and Heroku
+Agile (~2 week) group projects: Trello for Kanban, MVP, pairing in 2-day sprints, stand-ups and retros
 
 #### Glyndwr University
 
