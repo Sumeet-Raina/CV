@@ -30,7 +30,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Glyndwr University
 
 - Subject, any specialisms
 - Grade
