@@ -1,6 +1,6 @@
 ## Sumeet Raina
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a proactive lifelong learner that is constantly seeking opportunities to help invest in myself. 
 
 ## Skills
 
