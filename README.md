@@ -15,7 +15,8 @@
 
 I am an early career software developer seeking a new challenge on my path towards the software developer. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am passionate about learning new tools and technologies - currently learning React and Bootstrap.
 
-</div>
+</div>   
+
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Website |
