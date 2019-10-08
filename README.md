@@ -1,6 +1,21 @@
-## Sumeet Raina
+<h1 align="center">Sumeet Raina</h1>
 
-I am a proactive lifelong learner that is constantly seeking opportunities to help invest in myself. 
+<div align="center">
+<a  href="https://www.linkedin.com/in/sumeet-raina-408090191/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a  href="https://github.com/Sumeet-Raina"><img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github" hspace="50" height="42" width="42"></a></p>
+</div>
+
+<div align="center">
+
+[Projects ](#projects) |
+[Skills & Attitudes ](#skills) |
+[Experience ](#experience) |
+[Education ](#education)
+
+
+I am an early career software developer seeking a new challenge on my path towards the full-stack engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am passionate about learning new tools and technologies - currently learning React.
+
+</div>
 
 ## Skills
 
