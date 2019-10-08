@@ -17,6 +17,9 @@ I am an early career software developer seeking a new challenge on my path towar
 
 </div>
 
+## Projects
+
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -40,14 +43,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (July 2019 - October 2019)
 
-Learning how to apply industry-standard best practices to write clean code to solve problems
+During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Development using:
+* Ruby, RSpec, Rails, Capybara, Sinatra
+* JavaScript, jQuery, React, Jasmin, Jest
+* PostgreSQL
+* Linting, code quality, test coverage with rubocop,simplecov
+* Continuous Integration with Travis
+* Continous deployment with Heroku
+* Version control through Git and GitHub
+* Agile (~2 week) group projects: Trello for Kanban, MVP, pairing in 2-day sprints, stand-ups and retros
 
-Applying industry-standard practices:
-OOP, TDD and BDD, with testing frameworks: RSpec, Jasmine, pytest, Cypress
-User Stories, Domain Modelling: CRC, UML diagrams
-Linting, code quality, test coverage with rubocop, eslint, pylint, simplecov, Coveralls, CodeClimate
-CI/CD pipeline with TravisCI, CircleCI and Heroku
-Agile (~2 week) group projects: Trello for Kanban, MVP, pairing in 2-day sprints, stand-ups and retros
+I acquired the ability and appreciation for pair programming. I am familiar with modeling along the MVC lines, and creating applications following the principles of object-oriented programming.
+
+I worked in three self-organising teams leaning on the agile methodology principles.
+
+All my efforts a Makers were guided by the Extreme Programming Values.
 
 #### Glyndwr University
 
