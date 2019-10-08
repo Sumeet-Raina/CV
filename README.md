@@ -24,20 +24,20 @@ I am an early career software developer seeking a new challenge on my path towar
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Skills
 
-- Experience
-- Achievements
-- Evidence
+**Communication**   
+Throughout my career I have always worked in environments built on the ability to make yourself understood. Whether explaining a lesson to children in the classroom, conflict resolution on the playground, debating on how to implement the curriculum with my colleagues or helping staff work through their technical difficulties.
+Whilst at Makers Academy I feel I have grown my abilities during pair programming sessions and working on group projects, I have become more confident speaking out in meetings and making sure I can add my experience to situations that demand it.
 
-#### Another Skill
+**Passion for Learning**  
+During my time working in education, my focus was always on how I could best teach others and in turn this taught me a lot about how I learn myself.
+Taught myself how to code initially.
+Enjoy reading about cognitive psychology to find out how I can learn more effectively.  
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+**Problem Solving**  
+My love of problem solving has grown exponentially since I started programming., I now revel in working my way out of a difficult debugging problem, or researching how to best go about utilising a new technology.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
