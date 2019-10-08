@@ -13,7 +13,7 @@
 [Education ](#education)
 
 
-I am an early career software developer seeking a new challenge on my path towards the software engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am passionate about learning new tools and technologies - currently learning React and Bootstrap.
+I am an early career software developer seeking a new challenge on my path towards the full-stack software engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am passionate about learning new tools and technologies - currently learning React and Bootstrap.
 
 </div>   
 
