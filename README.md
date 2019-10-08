@@ -70,9 +70,12 @@ All my efforts a Makers were guided by the Extreme Programming Values.
 * Dissertation: Critical analysis of effects
 of technology on autistic children
 
-#### Any other qualifications
+#### Postgraduate diploma in computer applications (September 2008 - April 2009)
 
-That in some arguable way make you a better software developer or well-rounded person
+* Fundamentals of Computer & Operating Systems
+* Introduction to Scripting Languages, Web Designing
+& Uses of Internet
+
 
 ## Experience
 **Government Primary school - Pathankot** (September 2008 - October 2010)
