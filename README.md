@@ -13,7 +13,7 @@
 [Education ](#education)
 
 
-I am an early career software developer seeking a new challenge on my path towards the full-stack engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am passionate about learning new tools and technologies - currently learning React.
+I am an early career software developer seeking a new challenge on my path towards the software developer. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am passionate about learning new tools and technologies - currently learning React and Bootstrap.
 
 </div>
 
@@ -70,15 +70,24 @@ All my efforts a Makers were guided by the Extreme Programming Values.
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Experience
+**Government Primary school - Pathankot** (September 2008 - October 2010)
+*Teacher*
+-Core Responsibilities
+-Lesson planning.
+-Deliver the lesson. 
+-Arrange extracurricular activities for students. 
+-Mark test papers. 
+-Arranging parent meetings. 
+-Supporting those children with special educational needs by setting them goals and organising resources so they could meet them.
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
-
+**Mango Tree Nursery - Kingston** (January 2011 to March 2015)
+*Teaching Assistant*
+-Core Responsibilities
+-Working with the room leader to deliver the best learning experience for the pupils.
+-Supporting those children with special educational needs by setting them goals and organising resources so they could meet them.
+-Maintaining behaviour standards and resolving conflicts.
+-Helping the staff with day-to-day computing and AV issues, working with the premises manager to fix hardware issues and deploying software and user credentials on the network.
+ 
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
