@@ -79,9 +79,9 @@ of technology on autistic children
 
 ## Experience
 
-**Mango Tree Nursery - Kingston** (January 2011 to March 2015)
+**Mango Tree Nursery - Kingston** (January 2011 to March 2015) 
 *Teaching Assistant* 
- As a teaching assistant my core Responsibilities were:  
+ *As a teaching assistant my core Responsibilities were:*  
 - Working with the room leader to deliver the best learning experience for the pupils.
 - Supporting those children with special educational needs by setting them goals and organising resources so they could meet them.
 - Maintaining behaviour standards and resolving conflicts.
@@ -89,7 +89,7 @@ of technology on autistic children
 
 **Government Primary school - Pathankot** (September 2008 - October 2010)
 *Teacher*   
-As a class teacher my core Responsibilities were: 
+*As a class teacher my core Responsibilities were: *
 - Lesson planning.
 - Deliver the lesson. 
 - Arrange extracurricular activities for students. 
