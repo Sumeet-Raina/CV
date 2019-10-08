@@ -78,8 +78,8 @@ of technology on autistic children
 
 
 ## Experience
-
-**Mango Tree Nursery - Kingston** (January 2011 to March 2015) 
+ 
+**Mango Tree Nursery - Kingston** (January 2011 to March 2015)     
 *Teaching Assistant* 
 
 - Working with the room leader to deliver the best learning experience for the pupils.
@@ -87,7 +87,7 @@ of technology on autistic children
 - Maintaining behaviour standards and resolving conflicts.
 - Helping the staff with day-to-day computing and AV issues, working with the premises manager to fix hardware issues and deploying software and user credentials on the network.
 
-**Government Primary school - Pathankot** (September 2008 - October 2010)
+**Government Primary school - Pathankot** (September 2008 - October 2010)  
 *Teacher*  
 
 - Lesson planning.
