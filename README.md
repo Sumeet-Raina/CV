@@ -59,15 +59,15 @@ I worked in three self-organising teams leaning on the agile methodology princip
 
 All my efforts a Makers were guided by the Extreme Programming Values.
 
-#### Glyndwr University
+#### Glyndwr University (January 2014 - March 2015)
 
-*Postgraduate Study & Research Methods . 
-*Networking Hardware and Software . 
-*Networking Techniques & Technologies . 
-*Database Systems and Analytics . 
-*Software Development - Object-Oriented Programming . 
-*Technological Horizon-Scanning . 
-*Dissertation: Critical analysis of effects
+* Postgraduate Study & Research Methods  
+* Networking Hardware and Software 
+* Networking Techniques & Technologies 
+* Database Systems and Analytics  
+* Software Development - Object-Oriented Programming  
+* Technological Horizon-Scanning  
+* Dissertation: Critical analysis of effects
 of technology on autistic children
 
 #### Any other qualifications
