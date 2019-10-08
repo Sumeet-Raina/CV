@@ -20,11 +20,8 @@ I am an early career software developer seeking a new challenge on my path towar
 ## Projects
 
 
+
 ## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### Skills
 
 **Communication**   
 Throughout my career I have always worked in environments built on the ability to make yourself understood. Whether explaining a lesson to children in the classroom, conflict resolution on the playground, debating on how to implement the curriculum with my colleagues or helping staff work through their technical difficulties.
