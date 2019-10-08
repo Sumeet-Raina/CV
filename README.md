@@ -98,7 +98,7 @@ of technology on autistic children
  
 ## Hobbies
 
-📗I enjoy reading fiction and non-fiction books 
-🎥Going to movies
-🚗Travelling 
-Any cool stuff that makes you a super part of a software development team
+📗I enjoy reading fiction and non-fiction books   
+🎥Going to movies  
+🚗Travelling   
+
