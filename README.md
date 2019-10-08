@@ -61,9 +61,14 @@ All my efforts a Makers were guided by the Extreme Programming Values.
 
 #### Glyndwr University
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+*Postgraduate Study & Research Methods . 
+*Networking Hardware and Software . 
+*Networking Techniques & Technologies . 
+*Database Systems and Analytics . 
+*Software Development - Object-Oriented Programming . 
+*Technological Horizon-Scanning . 
+*Dissertation: Critical analysis of effects
+of technology on autistic children
 
 #### Any other qualifications
 
