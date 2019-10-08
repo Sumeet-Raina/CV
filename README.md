@@ -78,6 +78,15 @@ of technology on autistic children
 
 
 ## Experience
+
+**Mango Tree Nursery - Kingston** (January 2011 to March 2015)
+*Teaching Assistant*
+- Core Responsibilities
+- Working with the room leader to deliver the best learning experience for the pupils.
+- Supporting those children with special educational needs by setting them goals and organising resources so they could meet them.
+- Maintaining behaviour standards and resolving conflicts.
+- Helping the staff with day-to-day computing and AV issues, working with the premises manager to fix hardware issues and deploying software and user credentials on the network.
+
 **Government Primary school - Pathankot** (September 2008 - October 2010)
 *Teacher*
 - Core Responsibilities
@@ -88,13 +97,7 @@ of technology on autistic children
 - Arranging parent meetings. 
 - Supporting those children with special educational needs by setting them goals and organising resources.
 
-**Mango Tree Nursery - Kingston** (January 2011 to March 2015)
-*Teaching Assistant*
-- Core Responsibilities
-- Working with the room leader to deliver the best learning experience for the pupils.
-- Supporting those children with special educational needs by setting them goals and organising resources so they could meet them.
-- Maintaining behaviour standards and resolving conflicts.
-- Helping the staff with day-to-day computing and AV issues, working with the premises manager to fix hardware issues and deploying software and user credentials on the network.
+
  
 ## Hobbies
 
