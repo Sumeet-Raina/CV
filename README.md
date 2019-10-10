@@ -24,23 +24,6 @@ I am an early career software developer seeking a new challenge on my path towar
 |<a href="https://github.com/Sumeet-Raina/HappyChappy">HappyChappy</a> | The final team project for Makers. A React-Rails-based Chatbot that helps users track their moods. | 2 weeks | React - Language Development, Rails - Web Application Framework, PostgreSQL - Database, Rspec / Jest - Testing Framework, Rubocop - Linter, Devise - Authentication, Travis - CI, Heroku - Cloud Hosting, Code-climate, SimpleCov - Code Coverage |  https://happy-chappy.herokuapp.com/users/sign_in|
 |<a href="https://github.com/dtrts/acebook-ConnectU">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails - Web Application Framework, PostgreSQL - Database, Rspec / Capybara - Testing Framework, Rubocop - Linter, Clearance, Travis - CI, Heroku - Cloud Hosting, CSS, SimpleCov - Code Coverage | Work in progress |
 
-
-
-## Skills
-
-**Communication**   
-Throughout my career I have always worked in environments built on the ability to make yourself understood. Whether explaining a lesson to children in the classroom, conflict resolution on the playground, debating on how to implement the curriculum with my colleagues or helping staff work through their technical difficulties.
-Whilst at Makers Academy I feel I have grown my abilities during pair programming sessions and working on group projects, I have become more confident speaking out in meetings and making sure I can add my experience to situations that demand it.
-
-**Passion for Learning**  
-During my time working in education, my focus was always on how I could best teach others and in turn this taught me a lot about how I learn myself.
-Taught myself how to code initially.
-Enjoy reading about cognitive psychology to find out how I can learn more effectively.  
-
-**Problem Solving**  
-My love of problem solving has grown exponentially since I started programming., I now revel in working my way out of a difficult debugging problem, or researching how to best go about utilising a new technology.
-
-
 ## Education
 
 #### Makers Academy (July 2019 - October 2019)
@@ -77,6 +60,20 @@ of technology on autistic children
 * Fundamentals of Computer & Operating Systems
 * Introduction to Scripting Languages, Web Designing
 & Uses of Internet
+
+## Skills
+
+**Communication**   
+Throughout my career I have always worked in environments built on the ability to make yourself understood. Whether explaining a lesson to children in the classroom, conflict resolution on the playground, debating on how to implement the curriculum with my colleagues or helping staff work through their technical difficulties.
+Whilst at Makers Academy I feel I have grown my abilities during pair programming sessions and working on group projects, I have become more confident speaking out in meetings and making sure I can add my experience to situations that demand it.
+
+**Passion for Learning**  
+During my time working in education, my focus was always on how I could best teach others and in turn this taught me a lot about how I learn myself.
+Taught myself how to code initially.
+Enjoy reading about cognitive psychology to find out how I can learn more effectively.  
+
+**Problem Solving**  
+My love of problem solving has grown exponentially since I started programming., I now revel in working my way out of a difficult debugging problem, or researching how to best go about utilising a new technology.
 
 
 ## Experience
