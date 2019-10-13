@@ -20,7 +20,7 @@ I am an early career software developer seeking a new challenge on my path towar
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Website |
-|--|--|--|--|--|
+|--|--|--|--|
 |<a href="https://github.com/Sumeet-Raina/HappyChappy">HappyChappy</a> | The final team project for Makers. A React-Rails-based Chatbot that helps users track their moods. | 2 weeks | React - Language Development, Rails - Web Application Framework, PostgreSQL - Database, Rspec / Jest - Testing Framework, Rubocop - Linter, Devise - Authentication, Travis - CI, Heroku - Cloud Hosting, Code-climate, SimpleCov - Code Coverage |  https://happy-chappy.herokuapp.com/users/sign_in|
 |<a href="https://github.com/dtrts/acebook-ConnectU">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails - Web Application Framework, PostgreSQL - Database, Rspec / Capybara - Testing Framework, Rubocop - Linter, Clearance, Travis - CI, Heroku - Cloud Hosting, CSS, SimpleCov - Code Coverage | Work in progress |
 
