@@ -102,7 +102,7 @@ My love of problem solving has grown exponentially since I started programming.,
  
 ## Hobbies
 
-💻Vounteering at Coder Dojo: Volunteer-led, community-based computer programming clubs for young people.
-📗Reading Books: I enjoy reading fiction and non-fiction books .      
-🏃Running: Keeps the mind clear! I problem solve best after a good run. 
+💻Vounteering at Coder Dojo: Volunteer-led, community-based computer programming clubs for young people.  
+📗Reading Books: I enjoy reading fiction and non-fiction books .        
+🏃Running: Keeps the mind clear! I problem solve best after a good run.   
 
