@@ -19,20 +19,22 @@ I am an early career software developer seeking a new challenge on my path towar
 
 
 ## Projects
-| Title | Description | Development Timeframe | Technologies Used | Website |
-|--|--|--|--|
-|<a href="https://github.com/Sumeet-Raina/HappyChappy">HappyChappy</a> | The final team project for Makers. A React-Rails-based Chatbot that helps users track their moods. | 2 weeks | React - Language Development, Rails - Web Application Framework, PostgreSQL - Database, Rspec / Jest - Testing Framework, Rubocop - Linter, Devise - Authentication, Travis - CI, Heroku - Cloud Hosting, Code-climate, SimpleCov - Code Coverage |  https://happy-chappy.herokuapp.com/users/sign_in|
-|<a href="https://github.com/dtrts/acebook-ConnectU">Acebook</a> | Group project. The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities. | 2 weeks | Ruby on Rails - Web Application Framework, PostgreSQL - Database, Rspec / Capybara - Testing Framework, Rubocop - Linter, Clearance, Travis - CI, Heroku - Cloud Hosting, CSS, SimpleCov - Code Coverage | Work in progress |
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Happy Chappy](https://github.com/Sumeet-Raina/HappyChappy) | The final team project for Makers. A React-Rails-based Chatbot that helps users track their moods | React, Rails, RSpec/Capybara, Heroku, Travis CI|
+| [Acebook](https://github.com/dtrts/acebook-ConnectU) |The Acebook platform is the outcome of the Ruby on Rails project mirroring Facebook functionalities|Rails, RSpec/Capybara, Clearance, Postgres, Heroku, Travis CI|
+|[Thermostat](https://github.com/Sumeet-Raina/Thermotat_js) | An interactive web app where users can change temperature |Javascript, Jasmine |
 
 ## Education
 
 #### Makers Academy (July 2019 - October 2019)
 
 During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Development using:
-* Ruby, RSpec, Rails, Capybara, Sinatra
-* JavaScript, jQuery, React, Jasmin, Jest
+* Ruby, JavaScript, Rails
+* HTML & CSS
+* RSpec, Jasmine, Capybara
 * PostgreSQL
-* Linting, code quality, test coverage with rubocop,simplecov
+* Linting, code quality, test coverage with rubocop, simplecov
 * Continuous Integration with Travis
 * Continous deployment with Heroku
 * Version control through Git and GitHub
