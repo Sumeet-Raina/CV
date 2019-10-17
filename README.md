@@ -34,11 +34,11 @@ During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Dev
 * HTML & CSS
 * RSpec, Jasmine, Capybara
 * PostgreSQL
-* Linting, code quality, test coverage with rubocop, simplecov
+* Test coverage with rubocop, simplecov
 * Continuous Integration with Travis
 * Continous deployment with Heroku
 * Version control through Git and GitHub
-* Agile (~2 week) group projects: Trello for Kanban, MVP, pairing in 2-day sprints, stand-ups and retros
+* Agile (2 week) group projects: Trello for Kanban, MVP, pairing in 2-day sprints, stand-ups and retros
 
 I acquired the ability and appreciation for pair programming. I am familiar with modeling along the MVC lines, and creating applications following the principles of object-oriented programming.
 
