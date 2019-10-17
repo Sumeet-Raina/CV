@@ -48,20 +48,22 @@ All my efforts a Makers were guided by the Extreme Programming Values.
 
 #### Glyndwr University (January 2014 - March 2015)
 
-* Postgraduate Study & Research Methods  
-* Networking Hardware and Software 
-* Networking Techniques & Technologies 
-* Database Systems and Analytics  
-* Software Development - Object-Oriented Programming  
-* Technological Horizon-Scanning  
-* Dissertation: Critical analysis of effects
-of technology on autistic children
+* Postgraduate Study & Research Methods
+* Future and Emerging Technology
+* Commercial Website Design and Development
+* Database Systems 
+* Software Development - Object-Oriented Programming
+* IT Project Management
+* Dissertation: Critical analysis of the effects of technology on autistic children
+
 
 #### Postgraduate diploma in computer applications (September 2008 - April 2009)
 
-* Fundamentals of Computer & Operating Systems
-* Introduction to Scripting Languages, Web Designing
-& Uses of Internet
+* PC-Computing-1(MS Office) 
+* Introduction to scripting languages
+* fundamentals of computer operating systems 
+* Web designing
+* Oracle-8, Programming in C, and Visual basics.
 
 ## Skills
 
