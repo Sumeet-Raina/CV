@@ -65,6 +65,12 @@ All my efforts a Makers were guided by the Extreme Programming Values.
 * Web designing
 * Oracle-8, Programming in C, and Visual basics.
 
+#### Certification(2016) 
+
+ISTQB certified  
+Awarded by BCS   
+
+
 ## Skills
 
 **Communication**   
