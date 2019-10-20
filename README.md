@@ -13,7 +13,7 @@
 [Education ](#education)
 
 
-I am an early career software developer seeking a new challenge on my path towards full-stack software engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am passionate about learning new tools and technologies - currently learning React and Bootstrap.
+I am an early career software developer seeking a new challenge on my path towards full-stack software engineering. I recently graduated from Makers Academy where I developed programming skills in JavaScript, Ruby, and Python. I am passionate about learning new tools and technologies - currently learning React.
 
 </div>   
 
@@ -31,7 +31,7 @@ I am an early career software developer seeking a new challenge on my path towar
 
 During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Development using:
 * Ruby, JavaScript, Rails
-* HTML & CSS
+* HTML, CSS, Bootstrap
 * RSpec, Jasmine, Capybara
 * PostgreSQL
 * Test coverage with rubocop, simplecov
