@@ -46,6 +46,10 @@ I worked in three self-organising teams leaning on the agile methodology princip
 
 All my efforts a Makers were guided by the Extreme Programming Values.
 
+#### Certification(2016) 
+ISTQB® -BCS Certified Tester Foundation Level
+
+
 #### Glyndwr University (January 2014 - March 2015)
 
 * Postgraduate Study & Research Methods
@@ -64,12 +68,6 @@ All my efforts a Makers were guided by the Extreme Programming Values.
 * fundamentals of computer operating systems 
 * Web designing
 * Oracle-8, Programming in C, and Visual basics.
-
-#### Certification(2016) 
-
-ISTQB certified  
-Awarded by BCS   
-
 
 ## Skills
 
