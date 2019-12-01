@@ -34,7 +34,6 @@ During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Dev
 * HTML, CSS, Bootstrap
 * RSpec, Jasmine, Capybara
 * PostgreSQL
-* Test coverage with rubocop, simplecov
 * Continuous Integration with Travis
 * Continous deployment with Heroku
 * Version control through Git and GitHub
@@ -50,7 +49,7 @@ All my efforts a Makers were guided by the Extreme Programming Values.
 ISTQB® -BCS Certified Tester Foundation Level
 
 
-#### Glyndwr University (January 2014 - March 2015)
+#### Masters in Computing - Glyndwr University (January 2014 - March 2015)
 
 * Postgraduate Study & Research Methods
 * Future and Emerging Technology
@@ -108,7 +107,8 @@ My love of problem solving has grown exponentially since I started programming.,
  
 ## Hobbies
 
-💻Vounteering at Coder Dojo: Volunteer-led, community-based computer programming clubs for young people.  
+💻Vounteering at Coder Dojo: Volunteer-led, community-based computer programming clubs for young people.
+Droidcon London 2019​: ​Droidcon London is the biggest Android developer conference in Europe.  
 📗Reading Books: I enjoy reading fiction and non-fiction books .        
 🏃Running: Keeps the mind clear! I solve problems best after a good run.   
 
