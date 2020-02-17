@@ -85,7 +85,7 @@ My love of problem solving has grown exponentially since I started programming.,
 
 ## Experience
 
-**Homeflow (January 2020 - ongoing)
+**Homeflow (January 2020 - ongoing)**
 * Junior backend software developer 
 
 * Ruby, Rails
@@ -95,7 +95,7 @@ My love of problem solving has grown exponentially since I started programming.,
 * Docker , Skep, Jenkins
 * Jira
 
-**Makers Academy (July 2019 - October 2019)
+**Makers Academy (July 2019 - October 2019)**
 
 During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Development using:
 * Ruby, JavaScript, Rails
