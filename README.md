@@ -85,8 +85,8 @@ My love of problem solving has grown exponentially since I started programming.,
 
 ## Experience
 
-**Homeflow (January 2020 - ongoing)**
-* Junior backend software developer 
+**Homeflow (January 2020 - ongoing)**  
+ *Junior backend software developer*  
 
 - Ruby, Rails
 - Rspec   
