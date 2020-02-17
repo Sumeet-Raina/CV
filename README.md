@@ -88,12 +88,12 @@ My love of problem solving has grown exponentially since I started programming.,
 **Homeflow (January 2020 - ongoing)**
 * Junior backend software developer 
 
-* Ruby, Rails
-* Rspec 
-* Version control using Bitbucket
-* Mongodb , Sequelpro 
-* Docker , Skep, Jenkins
-* Jira
+- Ruby, Rails
+- Rspec   
+- Version control using Bitbucket  
+- Mongodb , Sequel pro   
+- Docker , Skep, Jenkins 
+- Jira  
 
 **Makers Academy (July 2019 - October 2019)**
 
