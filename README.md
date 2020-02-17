@@ -84,7 +84,29 @@ My love of problem solving has grown exponentially since I started programming.,
 
 
 ## Experience
- 
+
+**Homeflow (January 2020 - ongoing)
+* Junior backend software developer 
+
+* Ruby, Rails
+* Rspec 
+* Version control using Bitbucket
+* Mongodb , Sequelpro 
+* Docker , Skep, Jenkins
+* Jira
+
+**Makers Academy (July 2019 - October 2019)
+
+During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Development using:
+* Ruby, JavaScript, Rails
+* HTML, CSS, Bootstrap
+* RSpec, Jasmine, Capybara
+* PostgreSQL
+* Continuous Integration with Travis
+* Continous deployment with Heroku
+* Version control through Git and GitHub
+* Agile (2 week) group projects: Trello for Kanban, MVP, pairing in 2-day sprints, stand-ups and retros
+
 **Mango Tree Nursery - Kingston** (January 2011 to March 2015)     
 *Teaching Assistant* 
 
