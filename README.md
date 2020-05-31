@@ -30,14 +30,14 @@ I am an early career software developer seeking a new challenge on my path towar
 #### Makers Academy (July 2019 - October 2019)
 
 During the 16 weeks of intensive bootcamp I gained experience in Test-Driven Development using:
-* Ruby, JavaScript, Rails
+* Ruby on Rails, Javascript
 * HTML, CSS, Bootstrap
 * RSpec, Jasmine, Capybara
-* PostgreSQL
-* Continuous Integration with Travis
-* Continous deployment with Heroku
-* Version control through Git and GitHub
-* Agile (2 week) group projects: Trello for Kanban, MVP, pairing in 2-day sprints, stand-ups and retros
+* PostgreSQL, MongoDb, Sequel pro and SQL
+* Continuous Integration with Travis and Jenkins
+* Continous deployment with Heroku and Docker
+* Version control through Git, Bitbucket and GitHub
+* Agile (2 week) group projects: Jira, Trello for Kanban, MVP, pairing in 2-day sprints, stand-ups and retros
 
 I acquired the ability and appreciation for pair programming. I am familiar with modeling along the MVC lines, and creating applications following the principles of object-oriented programming.
 
